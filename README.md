@@ -118,4 +118,4 @@ module.exports = function(grunt) {
 }
 
 三.效果如下：babel文件夹下是将源文件夹origin_js的代码转换为es5之后的代码，js文件夹下是压缩的babel文件夹下的最终文件
-![avatar](https://img-blog.csdn.net/2018041311361720)
+https://img-blog.csdn.net/2018041311361720
